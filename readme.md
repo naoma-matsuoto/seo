@@ -10,7 +10,7 @@
 
 
 
-#### 近年ではYahoo、Google、Bingの検索エンジンがある
+#### 検索エンジンはYahoo、Google、Bingの検索エンジンがある
 
 #### ただし数字的にはGoogleが一番！！
 
