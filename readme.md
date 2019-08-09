@@ -104,6 +104,6 @@ descriptionで設定しましょう。
 
 SEOの歴史について
 
-よくまとめてくれているサイトを見つけました。](https://www.asobou.co.jp/blog/web/seo-userfast)
+[よくまとめてくれているサイトを見つけました。](https://www.asobou.co.jp/blog/web/seo-userfast)
 
 
